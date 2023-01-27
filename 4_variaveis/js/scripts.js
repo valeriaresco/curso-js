@@ -28,3 +28,9 @@ const ola = 2;
 
 console.log(testando);
 console.log(ola);
+
+var meuNome;
+
+meuNome = "Valéria";
+
+console.log(meuNome);
