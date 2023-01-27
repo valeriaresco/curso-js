@@ -18,3 +18,13 @@ console.log(_nome);
 var nome5 = 'ASD3'
 
 console.log(nome5);
+
+var meuPrimeiroNome = 'Valéria';
+
+console.log(meuPrimeiroNome); //camelCase
+
+let testando = 1;
+const ola = 2;
+
+console.log(testando);
+console.log(ola);
